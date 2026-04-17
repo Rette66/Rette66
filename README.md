@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **[在这里写你正在学的东西，比如 AI, Cloud Computing 等]**
 - 💡 I'm deeply passionate about building scalable backends and clean architectures.
 - 💬 Ask me about **Python, Java, C#, or anything tech-related!**
-- 📫 How to reach me: **[在这里写你的邮箱比如 xxx@gmail.com]**
+- 📫 How to reach me: **845265098wwx@gmail.com**
 
 ---
 
