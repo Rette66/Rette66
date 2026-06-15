@@ -12,8 +12,8 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[在这里写你正在做的项目名，比如 Awesome Python Project]**
-- 🌱 I’m currently learning **[在这里写你正在学的东西，比如 AI, Cloud Computing 等]**
+- 🔭 I’m currently working on **[Kaiwu-pytorch-plugin](https://github.com/qboson/kaiwu-pytorch-plugin "quantum computing programming suite based on PyTorch")**
+- 🌱 I’m currently interested in **Agentic AI, Computer Graphics and Difffusion Model**
 - 💡 I'm deeply passionate about building scalable backends and clean architectures.
 - 💬 Ask me about **Python, Java, C#, or anything tech-related!**
 - 📫 How to reach me: **845265098wwx@gmail.com**
