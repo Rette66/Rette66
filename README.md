@@ -4,7 +4,7 @@
 
   <!-- 动态打字效果，可以修改 lines 里的内容来定制你的头衔 -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Developer;Python+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Developer;Deep+Learning+Researcher;Python+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
   </a>
 </div>
 
