@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0D1117,45:1F6FEB,100:2EA043&text=Rette66&fontColor=000000&fontSize=78&animation=twinkling&stroke=36BCF7&strokeWidth=1&desc=Backend%20Craft%20%C2%B7%20Agentic%20AI%20%C2%B7%20Diffusion%20Models&descSize=18&descAlignY=68" alt="Rette66 banner" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0D1117,45:1F6FEB,100:2EA043&text=Rette66&fontColor=F011F0&fontSize=78&animation=twinkling&stroke=36BCF7&strokeWidth=1&desc=Agentic%20AI%20%C2%B7%20Computer%20Graphics%20%C2%B7%20Diffusion%20Models&descSize=18&descAlignY=68" alt="Rette66 banner" />
 
 <a href="mailto:845265098wwx@gmail.com">
   <img src="https://img.shields.io/badge/Email-845265098wwx%40gmail.com-1F6FEB?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
@@ -13,7 +13,7 @@
 <br />
 <br />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&pause=900&color=36BCF7&center=true&vCenter=true&width=780&lines=I+build+systems+that+think%2C+learn%2C+and+scale.;Python+%2F+Java+%2F+C%23+%2F+AI+Infrastructure;Currently+exploring+Agentic+AI+and+Computer+Graphics" alt="Typing intro" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&pause=900&color=36BCF7&center=true&vCenter=true&width=780&lines=Building+agents+that+reason%2C+act%2C+and+adapt.;Exploring+graphics%2C+simulation%2C+and+generative+models.;Python+%2F+Java+%2F+C%23+%2F+Creative+AI+Engineering" alt="Typing intro" />
 
 </div>
 
@@ -23,13 +23,13 @@
 
 ```txt
 name        Rette66
-role        Software Developer / Deep Learning Researcher
+role        Software Developer / Agentic AI Explorer
 focus       Agentic AI, Computer Graphics, Diffusion Models
-style       Clean architecture, scalable backends, practical research code
+style       Visual experiments, autonomous workflows, practical research code
 current     Kaiwu-pytorch-plugin
 ```
 
-I like turning abstract ideas into runnable systems: clean backend architecture, useful AI tooling, and research code that survives contact with real engineering constraints.
+I like building things at the edge of intelligence and visuals: agents that can plan and act, graphics experiments that make ideas visible, and research code that turns curiosity into something runnable.
 
 ---
 
@@ -47,7 +47,7 @@ I like turning abstract ideas into runnable systems: clean backend architecture,
     <td width="50%">
       <h3>Now Exploring</h3>
       <p>
-        Agentic AI · Computer Graphics · Diffusion Models · AI-native developer tools
+        Agentic AI · Computer Graphics · Diffusion Models · simulation · visual computing
       </p>
     </td>
   </tr>
@@ -55,13 +55,13 @@ I like turning abstract ideas into runnable systems: clean backend architecture,
     <td width="50%">
       <h3>Ask Me About</h3>
       <p>
-        Python · Java · C# · backend systems · deep learning experiments
+        Python · Java · C# · agent workflows · graphics experiments · deep learning
       </p>
     </td>
     <td width="50%">
       <h3>Engineering Taste</h3>
       <p>
-        Small APIs, explicit boundaries, readable architecture, and code that explains its own intent.
+        Interactive ideas, clear abstractions, visual feedback, and experiments that can grow into real tools.
       </p>
     </td>
   </tr>
@@ -131,9 +131,9 @@ I like turning abstract ideas into runnable systems: clean backend architecture,
 class Rette66:
     def build(self):
         return {
-            "systems": "scalable",
-            "research": "reproducible",
-            "architecture": "clean",
+            "agents": "autonomous",
+            "graphics": "interactive",
+            "research": "runnable",
             "learning": "continuous",
         }
 ```
