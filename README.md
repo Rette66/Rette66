@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0D1117,45:1F6FEB,100:2EA043&text=Rette66&fontColor=FFFFFF&fontSize=78&animation=twinkling&stroke=36BCF7&strokeWidth=1&desc=Backend%20Craft%20%C2%B7%20Agentic%20AI%20%C2%B7%20Diffusion%20Models&descSize=18&descAlignY=68" alt="Rette66 banner" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0D1117,45:1F6FEB,100:2EA043&text=Rette66&fontColor=000000&fontSize=78&animation=twinkling&stroke=36BCF7&strokeWidth=1&desc=Backend%20Craft%20%C2%B7%20Agentic%20AI%20%C2%B7%20Diffusion%20Models&descSize=18&descAlignY=68" alt="Rette66 banner" />
 
 <a href="mailto:845265098wwx@gmail.com">
   <img src="https://img.shields.io/badge/Email-845265098wwx%40gmail.com-1F6FEB?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
