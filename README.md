@@ -1,67 +1,84 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0D1117,45:1F6FEB,100:2EA043&text=Rette66&fontColor=F011F0&fontSize=78&animation=twinkling&stroke=36BCF7&strokeWidth=1&desc=Agentic%20AI%20%C2%B7%20Computer%20Graphics%20%C2%B7%20Diffusion%20Models&descSize=18&descAlignY=68" alt="Rette66 banner" />
+<!-- ===================== SCI-FI HUD HERO ===================== -->
 
-<a href="mailto:845265098wwx@gmail.com">
-  <img src="https://img.shields.io/badge/Email-845265098wwx%40gmail.com-1F6FEB?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://github.com/qboson/kaiwu-pytorch-plugin">
-  <img src="https://img.shields.io/badge/Working%20on-Kaiwu--pytorch--plugin-2EA043?style=flat-square&logo=github&logoColor=white" alt="Kaiwu-pytorch-plugin" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=Rette66&style=flat-square&color=36BCF7" alt="Profile views" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:020617,30:0EA5E9,60:67E8F9,100:020617" width="100%" />
+
+<br />
+
+<h1>
+  <code>Rette66</code>
+</h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=700&color=67E8F9&center=true&vCenter=true&width=900&lines=%5B+Agentic+AI+%5D+%5B+Computer+Graphics+%5D+%5B+Diffusion+Models+%5D;%3E+Building+agents+that+reason%2C+act%2C+and+adapt.;%3E+Rendering+ideas+through+graphics+and+simulation.;%3E+Turning+research+curiosity+into+runnable+systems." alt="Typing SVG" />
 
 <br />
 <br />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&pause=900&color=36BCF7&center=true&vCenter=true&width=780&lines=Building+agents+that+reason%2C+act%2C+and+adapt.;Exploring+graphics%2C+simulation%2C+and+generative+models.;Python+%2F+Java+%2F+C%23+%2F+Creative+AI+Engineering" alt="Typing intro" />
+<table>
+  <tr>
+    <td align="left">
+      
+```txt
+╭──────────────────────────────────────────────╮
+│  NODE        Rette66                          │
+│  MODE        Research Engineer / Builder      │
+│  FOCUS       Agents · Graphics · Diffusion    │
+│  CURRENT     Kaiwu-pytorch-plugin             │
+│  OUTPUT      Runnable systems + visual ideas  │
+╰──────────────────────────────────────────────╯
+```
+
+  </td>
+  </tr>
+</table>
+
+<p>
+  <a href="mailto:845265098wwx@gmail.com">
+    <img src="https://img.shields.io/badge/MAIL-845265098wwx%40gmail.com-67E8F9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617" />
+  </a>
+  <a href="https://github.com/qboson/kaiwu-pytorch-plugin">
+    <img src="https://img.shields.io/badge/ACTIVE-Kaiwu--pytorch--plugin-22C55E?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" />
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:020617,30:0EA5E9,60:67E8F9,100:020617" width="100%" />
 
 </div>
 
 ---
 
-## `whoami`
-
-```txt
-name        Rette66
-role        Software Developer / Agentic AI Explorer
-focus       Agentic AI, Computer Graphics, Diffusion Models
-style       Visual experiments, autonomous workflows, practical research code
-current     Kaiwu-pytorch-plugin
-```
-
-I like building things at the edge of intelligence and visuals: agents that can plan and act, graphics experiments that make ideas visible, and research code that turns curiosity into something runnable.
-
----
-
-## Current Coordinates
+## `mission.control`
 
 <table>
   <tr>
     <td width="50%">
-      <h3>Now Building</h3>
+      <h3>🚀 Now Building</h3>
       <p>
-        <a href="https://github.com/qboson/kaiwu-pytorch-plugin"><b>Kaiwu-pytorch-plugin</b></a><br />
+        <a href="https://github.com/qboson/kaiwu-pytorch-plugin"><b>Kaiwu-pytorch-plugin</b></a>
+      </p>
+      <p>
         A quantum computing programming suite based on PyTorch.
       </p>
     </td>
     <td width="50%">
-      <h3>Now Exploring</h3>
+      <h3>🧠 Now Exploring</h3>
       <p>
-        Agentic AI · Computer Graphics · Diffusion Models · simulation · visual computing
+        Agentic AI · Computer Graphics · Diffusion Models · Simulation · Visual Computing
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>Ask Me About</h3>
+      <h3>⚙️ Ask Me About</h3>
       <p>
-        Python · Java · C# · agent workflows · graphics experiments · deep learning
+        Python · Java · C# · Agent Workflows · Graphics Experiments · Deep Learning
       </p>
     </td>
     <td width="50%">
-      <h3>Engineering Taste</h3>
+      <h3>🛰️ Engineering Taste</h3>
       <p>
-        Interactive ideas, clear abstractions, visual feedback, and experiments that can grow into real tools.
+        Clear abstractions, interactive feedback, visual systems, and experiments that can grow into real tools.
       </p>
     </td>
   </tr>
@@ -69,7 +86,7 @@ I like building things at the edge of intelligence and visuals: agents that can 
 
 ---
 
-## Toolbox
+## `core.stack`
 
 <div align="center">
 
@@ -78,54 +95,135 @@ I like building things at the edge of intelligence and visuals: agents that can 
 <br />
 <br />
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=67E8F9" alt="Python" />
+<img src="https://img.shields.io/badge/Java-020617?style=for-the-badge&logo=openjdk&logoColor=F97316" alt="Java" />
+<img src="https://img.shields.io/badge/C%23-020617?style=for-the-badge&logo=csharp&logoColor=A855F7" alt="C#" />
+<img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=FACC15" alt="JavaScript" />
+<img src="https://img.shields.io/badge/C-020617?style=for-the-badge&logo=c&logoColor=38BDF8" alt="C" />
+
+<br />
+
+<img src="https://img.shields.io/badge/PyTorch-020617?style=for-the-badge&logo=pytorch&logoColor=F97316" alt="PyTorch" />
+<img src="https://img.shields.io/badge/Docker-020617?style=for-the-badge&logo=docker&logoColor=38BDF8" alt="Docker" />
+<img src="https://img.shields.io/badge/Linux-020617?style=for-the-badge&logo=linux&logoColor=FACC15" alt="Linux" />
+<img src="https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=F97316" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=E5E7EB" alt="GitHub" />
 
 </div>
 
-> I also wrote some PHP before. Every developer has an origin story.
+---
+
+## `research.radar`
+
+```txt
+[01] Agentic AI
+     Autonomous workflows, tool-using agents, planning, reasoning loops.
+
+[02] Computer Graphics
+     Visual experiments, simulation, rendering ideas, interactive systems.
+
+[03] Diffusion Models
+     Generative modeling, visual synthesis, research-to-code exploration.
+
+[04] Quantum + PyTorch
+     Working with Kaiwu-pytorch-plugin and quantum computing programming tools.
+```
 
 ---
 
-## Signal Board
+## `active.project`
 
 <div align="center">
 
-<img height="172" src="https://github-readme-stats.vercel.app/api?username=Rette66&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
-<img height="172" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rette66&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
-
-<br />
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rette66&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+<table>
+  <tr>
+    <td width="100%">
+      <h3>
+        <a href="https://github.com/qboson/kaiwu-pytorch-plugin">
+          Kaiwu-pytorch-plugin
+        </a>
+      </h3>
+      <p>
+        A quantum computing programming suite based on PyTorch.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Domain-Quantum%20Computing-67E8F9?style=flat-square&labelColor=020617" />
+        <img src="https://img.shields.io/badge/Framework-PyTorch-F97316?style=flat-square&labelColor=020617" />
+        <img src="https://img.shields.io/badge/Status-Actively%20Building-22C55E?style=flat-square&labelColor=020617" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## Recently in My Headphones
+## `developer.profile`
+
+<table>
+  <tr>
+    <td width="33%">
+      <h3>🧩 Systems</h3>
+      <p>
+        I like designing workflows where components are clear, composable, and useful beyond a single demo.
+      </p>
+    </td>
+    <td width="33%">
+      <h3>🧪 Experiments</h3>
+      <p>
+        I enjoy turning half-formed ideas into runnable prototypes, especially when visuals are involved.
+      </p>
+    </td>
+    <td width="33%">
+      <h3>🌌 Visuals</h3>
+      <p>
+        Graphics, simulation, and generative models are where abstract concepts become visible.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## `signal.board`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rette66&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=020617&title_color=67E8F9&icon_color=22D3EE&text_color=CBD5E1" alt="GitHub stats" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rette66&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=020617&title_color=67E8F9&text_color=CBD5E1" alt="Top languages" />
+
+<br />
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rette66&theme=tokyonight&hide_border=true&background=020617&stroke=67E8F9&ring=22D3EE&fire=F97316&currStreakLabel=67E8F9" alt="GitHub streak" />
+
+</div>
+
+---
+
+## `audio.signal`
 
 <div align="center">
 
 <!--
   Spotify setup:
   1. Open https://spotify-github-profile.kittinanx.com/api/login
-  2. Connect your Spotify account
-  3. Copy your generated uid
-  4. Replace YOUR_SPOTIFY_UID below
+  2. Connect your Spotify account.
+  3. Copy your generated uid.
+  4. Replace YOUR_SPOTIFY_UID below.
 -->
+
 <a href="https://spotify-github-profile.kittinanx.com/api/login">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&border_radius=8&bar_color=36bcf7" alt="Spotify Now Playing" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=true&background_color=020617&border_radius=8&bar_color=67E8F9" alt="Spotify Now Playing" />
 </a>
 
 </div>
 
 ---
 
-## Tiny Manifesto
+## `tiny.manifesto`
 
 ```py
 class Rette66:
@@ -136,10 +234,33 @@ class Rette66:
             "research": "runnable",
             "learning": "continuous",
         }
+
+    def taste(self):
+        return [
+            "clear abstractions",
+            "visual feedback",
+            "systems that feel alive",
+            "experiments that can grow into tools",
+        ]
 ```
 
 <div align="center">
 
-<sub>Let's connect and code something quietly excellent.</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12" width="88%" />
+
+<br />
+<br />
+
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=900&color=94A3B8&center=true&vCenter=true&width=680&lines=Let's+connect+and+code+something+quietly+excellent.;Research+is+better+when+it+runs.;Interfaces+are+better+when+they+feel+alive."
+  alt="Footer typing"
+/>
+
+<br />
+<br />
+
+<sub>
+  Agentic AI · Computer Graphics · Diffusion Models · Practical Research Code
+</sub>
 
 </div>
